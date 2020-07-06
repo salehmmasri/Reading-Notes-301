@@ -10,3 +10,4 @@ a
 | class-04            |  [Read-04](https://salehmmasri.github.io/Reading-Notes-301/class-04) |
 | class-05            |  [Read-05](https://salehmmasri.github.io/Reading-Notes-301/class-05) |
 | class-06            |  [Read-06](https://salehmmasri.github.io/Reading-Notes-301/class-06) |
+| class-07            |  [Read-07](https://salehmmasri.github.io/Reading-Notes-301/class-07) |
