@@ -11,3 +11,7 @@ a
 | class-05            |  [Read-05](https://salehmmasri.github.io/Reading-Notes-301/class-05) |
 | class-06            |  [Read-06](https://salehmmasri.github.io/Reading-Notes-301/class-06) |
 | class-07            |  [Read-07](https://salehmmasri.github.io/Reading-Notes-301/class-07) |
+| class-08            |  [Read-07](https://salehmmasri.github.io/Reading-Notes-301/class-07) |
+| class-09            |  [Read-09](https://salehmmasri.github.io/Reading-Notes-301/class-09) |
+| class-10            |  [Read-10](https://salehmmasri.github.io/Reading-Notes-301/class-10) |
+
